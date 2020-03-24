@@ -4,4 +4,4 @@ This challenge proposes a problem where a prediction is required to identify a s
 
 I have leveraged the use of Amazon web services in this project which provided me the hands-on experience in AWS.
 Initially the dataset is stored in AWS S3 bucket,later the data was migrated to AWS EC2 using puTTy.
-The analysis of the dataset is done in jupyter notebook deployed on AWS EC2,which is Predictive-Analysis-on-Customer-Shopping-behaviour.ipynb
+The analysis of the dataset is done in jupyter notebook deployed on AWS EC2,which is Predictive Analysis on Customer Shopping Behaviour.ipynb
