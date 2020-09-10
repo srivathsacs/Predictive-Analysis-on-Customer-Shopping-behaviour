@@ -28,9 +28,9 @@ import csv
 
 # get a handle on s3
 session = boto3.Session(
-                    aws_access_key_id='xxxxxxxxxxxxxxxxxx',
-                    aws_secret_access_key='xxxxxxxxxxxxxxxxxxx',
-                    region_name='xxxxxxxxxxxxx')
+                    aws_access_key_id='xxxxxxxxxxxxxxxxx',
+                    aws_secret_access_key='xxxxxxxxxxxxxxxxxxxxx',
+                    region_name='xxxxxxxxxxxxxxxxx')
                     
 s3 = session.resource('s3')
 
